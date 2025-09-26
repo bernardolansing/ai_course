@@ -1,5 +1,6 @@
 # T1
 Alamir Bobroski Filho - 00338513
+
 Bernardo Lansing - 00329928
 
 ## Melhores parâmetros para a regressão linear
